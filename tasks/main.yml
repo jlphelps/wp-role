@@ -1,0 +1,11 @@
+---
+# Get the Source Code
+- name: Checkout Source Code
+  git: repo={{ repo_url }} accept_hostkey=yes dest={{ dest }} version={{ version }}
+
+# Ensuring uploads folders are correct permissions
+- name: Set file permissions (wp-content/uploads) 777
+  file: path={{ dest }}/wp-content/uploads state=directory owner=www-data group=www-data mode=0777
+
+- name: Ensure Folder Ownership
+  file: path={{ dest }} recurse=yes state=directory owner=www-data group=www-data
