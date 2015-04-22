@@ -10,21 +10,15 @@ Create a Wordpress role for Ansible.
 
 Milestones
 ==========
-* ~~Set up Ansible server~~
-* Determine flow
-* Implement
-* Smoke test
-* Bug fixes
-* UAT
-* Write documentation
-* Publish to Ansible Galaxy
+[Milestones](https://github.com/jlphelps/wp-role/milestones)
 
 Related Projects
 ==========
-www.ansible.com
-galaxy.ansible.com
-www.wordpress.com
+[Ansible](http://www.ansible.com)
 
+[Ansible Galaxy] (http://galaxy.ansible.com)
+
+[WordPress] (http://www.wordpress.com)
 Information for Developers
 ==========
 Anyone can contribute, just submit a pull request.
@@ -38,3 +32,4 @@ Mailing List
 
 Issue Tracker
 ==========
+[Issues](https://github.com/jlphelps/wp-role/issues)
