@@ -1,0 +1,19 @@
+---
+galaxy_info:
+  author: Jeremy Phelps and Jessica de la Cruz
+  description: Ansible role for deploying and configuring WordPress
+  license: MIT
+  min_ansible_version: 1.2
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Debian
+    versions:
+    - all
+  categories:
+  - development
+  - packaging
+  - system
+  - web
+dependencies: []
