@@ -2,7 +2,7 @@
 
 Contributors  
 ============
-Jeremy Phelps ([jeremy.lee.phelps@gmail.com](mailto:jeremy.lee.phelps@gmail.com)) and Jessica de la Cruz ([jessica@topwi.se](mailto:jessica@topwi.se))
+Jeremy Phelps ([jeremy.lee.phelps@gmail.com](mailto:jeremy.lee.phelps@gmail.com)) and Jessica de la Cruz [@jdlc](https://github.com/jdlc)
 
 Mission
 ==========
