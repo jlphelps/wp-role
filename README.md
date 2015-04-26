@@ -6,7 +6,9 @@ Jeremy Phelps ([jeremy.lee.phelps@gmail.com](mailto:jeremy.lee.phelps@gmail.com)
 
 Mission
 ==========
-Our mission is to create an open-source Wordpress role for Ansible. Wordpress-role is licensed under the MIT license, the text of which is available [https://github.com/jlphelps/wp-role/blob/master/LICENSE](here). Each working version and iteration will be uploaded to Ansible Galaxy in the future.
+Our mission is to create an open-source Wordpress role for Ansible. This automates tasks and manages configurations that would be performed each time when creating a new Wordpress site.
+
+Wordpress-role is licensed under the MIT license, the text of which is available [here](https://github.com/jlphelps/wp-role/blob/master/LICENSE). Each working version and iteration will be uploaded to Ansible Galaxy in the future.
 
 Version History
 ==========
@@ -18,11 +20,11 @@ Our milestones are located here on Github: [Milestones](https://github.com/jlphe
 
 Related Projects
 ==========
-[Ansible](http://www.ansible.com)
+[Ansible](http://www.ansible.com) Automation software
 
-[Ansible Galaxy] (http://galaxy.ansible.com)
+[Ansible Galaxy] (http://galaxy.ansible.com) Hosts Ansible roles
 
-[WordPress] (http://www.wordpress.com)
+[WordPress] (http://www.wordpress.com) Create blogs, websites, CMS
 Information for Developers
 ==========
 Want to help develop? You'll need Ansible and Ansible Tower installed. Anyone can contribute, just submit a pull request.
