@@ -31,7 +31,9 @@ Want to help develop? You'll need Ansible and Ansible Tower installed. Anyone ca
 
 Information for Users
 ==========
-This role is not functional yet. Please check back often or follow this repository to see our progress. Want to use this in the future? You'll need Ansible and Ansible Tower installed.
+This role is not functional yet. Please check back often or follow this repository to see our progress.
+
+Want to use this in the future? You'll need Ansible and Ansible Tower installed. Here's an [introduction to Ansible Playbook Roles](http://docs.ansible.com/playbooks_roles.html).
 
 Mailing List
 ==========
@@ -39,4 +41,6 @@ No mailing list for now, because it's just us two. If we get many contributors/u
 
 Issue Tracker
 ==========
-Our issue tracker is located here on Github: [Issues](https://github.com/jlphelps/wp-role/issues) You'll need a Github account to create an issue on our tracker. Please select a Label and/or Milestone for your issue before submitting!
+Our issue tracker is located here on Github: [Issues](https://github.com/jlphelps/wp-role/issues)
+
+You'll need a Github account to create an issue on our tracker. Please select a Label and/or Milestone for your issue before submitting!
