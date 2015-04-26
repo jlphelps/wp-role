@@ -6,7 +6,7 @@ Jeremy Phelps ([jeremy.lee.phelps@gmail.com](mailto:jeremy.lee.phelps@gmail.com)
 
 Mission
 ==========
-Our mission is to create an open-source Wordpress role for Ansible. Wordpress-role is licensed under the MIT license, the text of which is available [https://github.com/jdlc/wordpress-role/blob/master/LICENSE](here). Each working version and iteration will be uploaded to Ansible Galaxy in the future.
+Our mission is to create an open-source Wordpress role for Ansible. Wordpress-role is licensed under the MIT license, the text of which is available [https://github.com/jlphelps/wp-role/blob/master/LICENSE](here). Each working version and iteration will be uploaded to Ansible Galaxy in the future.
 
 Version History
 ==========
