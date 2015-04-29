@@ -14,28 +14,28 @@ Variables
 =========
 The following variables must be set in the Ansible job template for this role to function properly:
 
-dest: /path/to/installation
-mysql_db: WordPress db username
-mysql_password: WordPress db password
-mysql_user: Wordpress db user
-ntpserver: nist.netservicesgroup.com
-remote_user: user to SSH as
-repo_url: URL of repo
-root_db_password: DB Password set upon installation
-timeout: Time in MS to wait for SSH handshake
-track_submodules: "yes" - grab submodules if necessary
-version: master
-vhosts:
-  vhost.to.configure.com:
-    aliases:
-      - vhost.to.configure.com
-      - 127.0.0.1
-    enabled: "yes"
-    listen:
-      - "*:80"
-      - "127.0.0.1:8080"
-    name: vhost.to.configure.com
-    root: /path/to/vhost/root
+  dest: /path/to/installation
+  mysql_db: WordPress db username
+  mysql_password: WordPress db password
+  mysql_user: Wordpress db user
+  ntpserver: nist.netservicesgroup.com
+  remote_user: user to SSH as
+  repo_url: URL of repo
+  root_db_password: DB Password set upon installation
+  timeout: Time in MS to wait for SSH handshake
+  track_submodules: "yes" - grab submodules if necessary
+  version: master
+  vhosts:
+    vhost.to.configure.com:
+      aliases:
+        - vhost.to.configure.com
+        - 127.0.0.1
+      enabled: "yes"
+      listen:
+        - "*:80"
+        - "127.0.0.1:8080"
+      name: vhost.to.configure.com
+      root: /path/to/vhost/root
 
 
 Version History
