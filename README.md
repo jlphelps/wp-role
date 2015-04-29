@@ -13,7 +13,7 @@ Wordpress-role is licensed under the MIT license, the text of which is available
 Variables
 =========
 The following variables must be set in the Ansible job template for this role to function properly:
-````
+```yaml
   dest: /path/to/installation
   mysql_db: WordPress db username
   mysql_password: WordPress db password
